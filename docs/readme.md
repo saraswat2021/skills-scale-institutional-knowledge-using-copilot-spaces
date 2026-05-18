@@ -145,7 +145,7 @@ OctoAcme provides an issue template to streamline updates to process documentati
 
 - **[Add/Update Content to Process Docs](./../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml)** — Use this template to propose improvements to any process document. It ensures consistency and captures rationale for changes.
 
----
+--- 
 
 ## How to Use These Docs
 
