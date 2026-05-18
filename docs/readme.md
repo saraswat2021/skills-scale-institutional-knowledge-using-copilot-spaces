@@ -145,9 +145,9 @@ OctoAcme provides an issue template to streamline updates to process documentati
 
 - **[Add/Update Content to Process Docs](./../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml)** — Use this template to propose improvements to any process document. It ensures consistency and captures rationale for changes.
 
----
+--- 
 
-## How to Use These Docs
+## How should we Use These Docs
 
 ### For Project Managers
 Start with the **[Project Initiation Guide](./octoacme-project-initiation.md)** to understand the kickoff process, then use **[Project Planning](./octoacme-project-planning.md)** and **[Execution & Tracking](./octoacme-execution-and-tracking.md)** as your primary workflow guides. Reference **[Risks & Communication](./octoacme-risks-and-communication.md)** for escalation and status reporting.
